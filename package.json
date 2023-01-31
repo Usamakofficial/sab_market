@@ -34,11 +34,12 @@
     "react-scripts": "5.0.0",
     "react-scroll": "^1.8.8",
     "react-tsparticles": "^2.5.3",
+    "swiper": "^8.4.7",
     "truffle-hdwallet-provider": "^1.0.17",
     "tsparticles": "^2.5.3",
     "tsparticles-engine": "^2.5.2",
     "web-vitals": "^2.1.4",
-    "web3": "^1.7.1"
+    "web3": "^1.8.2"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^4.5.0",

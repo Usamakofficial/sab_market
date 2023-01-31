@@ -9,6 +9,7 @@ import CreateNFT from "./CreateNFT";
 // import Particle from "./Particle";
 import Api from "./Api";
 import Sliderss from "./Sliderss";
+import Slider2 from "./Swiper";
 // import BigText from "./BigText";
 const Home = () => {
   return (
@@ -17,7 +18,7 @@ const Home = () => {
       <Hero />
 
       <Api />
-      <Sliderss />
+      <Slider2 />
       <Artworks />
       <Transactions />
       <CreateNFT />
